@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<div class="pnl-strt container visible-md visible-lg nvbar">
+
+<h2>Topics menu</h2>
+
+<div class="row">
+
+	<ul class="list-inline menu" role="menubar">
+		<li><a href="#" class="item">Inbox</a>
+		</li>
+		<li><a href="#" class="item">Cases</a>
+			<ul class="sm list-unstyled" id="cases" role="menu">
+			<li><a href="#">My assigned cases</a></li>
+			<li><a href="manageCases/manageCases-fosd.html">Manage cases</a></li>
+			</ul>
+		</li>
+				
+		<li><a href="#" class="item">Administrative</a>
+			<ul class="sm list-unstyled" id="administrative" role="menu">
+				<li><a href="#">Staff summary</a></li>
+				<li><a href="#">Search for staff</a></li>	
+				<li><a href="#">View/edit my profile</a></li>	
+			</ul>
+		</li>
+		
+		<li><a href="#" class="item">Shipping</a>
+			<ul class="sm list-unstyled" id="shipping" role="menu">
+				<li><a href="#">Manage shipments</a></li>   
+				<li><a href="#">Create a shipment</a></li>
+				<li><a href="#">Search shipments</a></li>
+			</ul>
+		</li>
+		
+		<li><a href="#" class="item">Tools</a>
+			<ul class="sm list-unstyled" id="tools" role="menu">
+				<li><a href="#">Collection area maps</a></li>
+				<li><a href="#">Change my password</a></li>
+			</ul>
+		</li>
+		
+		<li><a href="#" class="item">Help</a>
+			<ul class="sm list-unstyled" id="help" role="menu">
+				<li><a href="#" rel="external" target="_blank">Knowledge base</a></li>
+				<li><a href="#">Contact us</a></li>
+			</ul>
+		</li>
+	
+	</ul>
+
+
+</div>
+</div>
+</html>
